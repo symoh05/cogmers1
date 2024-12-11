@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f9faf9;
     color: #333;
-    background: linear-gradient(to bottom left, rgb(42, 181, 236),seagreen);
+    background: linear-gradient(to top left, rgb(34, 231, 211),rgb(33, 33, 217));
     
     background-repeat: no-repeat;
     background-size: cover;
@@ -69,6 +69,8 @@ header nav ul li a {
 .hero span {
     color: #791f6b;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 1000;
+}
 }
 
 .cta-button {
